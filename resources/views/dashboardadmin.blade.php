@@ -1,3 +1,7 @@
+@extends('layouts.layoutadmin')
+
+@section('content')
 <div>
-    <h1>admin</h1>
+      
 </div>
+@endsection
