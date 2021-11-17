@@ -1,8 +1,8 @@
 @component('mail::message')
 # {{ $data['title'] }}
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae amet placeat nulla deleniti illum expedita? Fuga, ea quia, tempore corrupti deleniti autem quaerat eius odit a, earum at eum cum.
-
+Terima Kasih telah memberikan Kritik & Saran
+Kami harap Kritik & Saran anda dapat menambah membuat web kami menjadi lebih baik lagi.
 @component('mail::button', ['url' => $data['url']])
 Visit
 @endcomponent

@@ -280,7 +280,8 @@ Under Creative Commons License: Attribution Non-Commercial No Derivatives</p>
       </div>  
       <input class="w3-check" type="checkbox" checked name="Like">
       <label>Tandai Jika Suka</label>
-      <button type="submit" class="w3-button w3-right w3-theme" href="{{url('">Kirim</button>
+
+      <a href="{{url('/kirim_email')}}" class="w3-button w3-right w3-theme">Kirim</a>
       </form>
     </div>
   </div>
